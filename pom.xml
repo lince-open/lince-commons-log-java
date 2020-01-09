@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>work.lince</groupId>
     <artifactId>lince-commons-log</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <packaging>jar</packaging>
 
     <name>Lince Commons Log</name>
@@ -42,7 +42,7 @@
         <connection>scm:git:git://github.com/dexecutor/dependent-tasks-executor.git</connection>
         <developerConnection>scm:git:git@github.com:dexecutor/dexecutor.git</developerConnection>
         <url>https://github.com/dexecutor/dependent-tasks-executor</url>
-        <tag>HEAD</tag>
+        <tag>lince-commons-log-0.0.1</tag>
     </scm>
 
     <dependencies>
