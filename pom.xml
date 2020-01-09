@@ -52,26 +52,6 @@
             <scope>provided</scope>
             <version>${spring-boot.version}</version>
         </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-data-jpa</artifactId>
-            <scope>provided</scope>
-            <version>${spring-boot.version}</version>
-        </dependency>
-
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-security</artifactId>
-            <scope>provided</scope>
-            <version>${spring-boot.version}</version>
-        </dependency>
-
-        <dependency>
-            <groupId>work.lince</groupId>
-            <artifactId>lince-commons</artifactId>
-            <scope>provided</scope>
-            <version>0.0.4-SNAPSHOT</version>
-        </dependency>
 
         <dependency>
             <groupId>org.projectlombok</groupId>
