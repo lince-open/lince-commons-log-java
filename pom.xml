@@ -31,7 +31,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
-        <spring-boot.version>2.2.1.RELEASE</spring-boot.version>
+        <spring-boot.version>3.1.9</spring-boot.version>
         <sonar.tests>src/test/groovy,src/test/java</sonar.tests>
         <sonar.projectKey>lince-open_lince-commons-log-java</sonar.projectKey>
         <sonar.organization>lince-open</sonar.organization>
